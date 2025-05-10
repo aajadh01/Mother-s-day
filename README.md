@@ -11,31 +11,19 @@ This is a special Mother's Day website created using Next.js, Tailwind CSS, Fram
 
 ## How to Run Locally🔧
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Anuj579/mothers-day-website.git
-   ```
-
-2. Navigate into the project directory:
-
-   ```bash
-   cd mothers-day-website
-   ```
-
-3. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+2. Start the development server:
 
    ```bash
    npm run dev
    ```
 
-5. Open your browser and go to `http://localhost:3000` to see the website in action.
+3. Open your browser and go to `http://localhost:3000` to see the website in action.
 
 ## Features✨
 
